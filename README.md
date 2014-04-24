@@ -5,5 +5,6 @@
 
 目前正在整理笔记上，整理好后，会加入到该工程
 
-**参考资源**
+**参考资源**  
+* [Disruptor Thrift Server连接参数与rps数值影响记录](http://2014.54chen.com/blog/2014/01/22/disruptor-thrift-server-link-param-rps/)
 
