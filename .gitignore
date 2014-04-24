@@ -1,8 +1,16 @@
-*.log
-target/
-.idea/
 *.iml
-# Eclipse junk; leading slash makes patterns non-recursive
-/.settings/
-/.project
-/.classpath
+.idea*
+*.ipr
+*.iws
+target/
+.settings/
+.classpath
+.project
+.DS_Store
+*.log
+dependency*
+.gradle/
+build/
+out/
+bin/
+/ecosystem/game/src/main/resources/rules/node_modules
